@@ -49,10 +49,10 @@ Our team of four developers collaborated closely to build this application, with
 
 | Team Member | Assigned Page              | Profile Link                        |
 | :---------- | :------------------------- | :---------------------------------- |
-| Member 1    | `index.html` and `userprofile.html` | [Sagar1643](https://github.com/Sagar1643)  |
-| Member 2    | `foodlogger.html`          | [niharika2024-gi](https://github.com/niharika2024-gi) |
-| Member 3    | `exercise.html`            | [Nishmitha28](https://github.com/Nishmitha28) |
-| Member 4    | `progressreport.html`      | [Rakshith-AR](https://github.com/Rakshith-AR) |
+| Member 1    | `index.html` and `userprofile.html` 
+| Member 2    | `foodlogger.html`          
+| Member 3    | `exercise.html`            
+| Member 4    | `progressreport.html`      
 
 ### 🛠️ Our Workflow
 
@@ -133,13 +133,9 @@ Distributed under the UN License. See `LICENSE.txt` for more information.
 
 Reach out via the project repository or contact team members directly:
 
-  * Member 1: [Sagar1643](https://github.com/Sagar1643)
-  * Member 2: [niharika2024-gi](https://github.com/niharika2024-gi)
-  * Member 3: [Nishmitha28](https://github.com/Nishmitha28)
-  * Member 4: [Rakshith-AR](https://github.com/Rakshith-AR)
-
------
-
+  * Member 1:likhitha 
+  * Member 2: manasa
+*member3 :gangothri
 ## 🙌 Acknowledgments
 
   * [Best-README-Template](https://github.com/othneildrew/Best-README-Template) for inspiring this documentation.
