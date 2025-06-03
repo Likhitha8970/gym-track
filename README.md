@@ -47,8 +47,8 @@ diet-fitness-tracker/
 
 Our team of four developers collaborated closely to build this application, with each member owning a specific module. Below are the team members, their responsibilities, and their profile links:
 
-| Team Member | Assigned Page              | Profile Link                        |
-| :---------- | :------------------------- | :---------------------------------- |
+| Team Member | Assigned Page              | 
+| :---------- | :------------------------- | 
 | Member 1    | `index.html` and `userprofile.html` 
 | Member 2    | `foodlogger.html`          
 | Member 3    | `exercise.html`            
